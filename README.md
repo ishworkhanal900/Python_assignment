@@ -11,3 +11,7 @@ todayyyyy
 ....date 2019--apr--09(10:02)
 
 today i learned so much (obviously a little bit) about git. uploaded some assignments of python....thats all :)
+
+....date 2023--feb--26(1:59)
+
+back to git, and it feels like have never used it.
